@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Able Dock! 👋
 
-<!--
-**abledock/abledock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building impactful software.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new technologies and improving my skills.
+- 🔭 I’m working on various projects that involve web development, data science, and open-source contributions.
+- 💬 Ask me about Python, JavaScript, and web development.
+
+## GitHub Stats
+
+![Able Dock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abledock&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abledock&layout=compact&theme=radical)
