@@ -6,4 +6,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 🔭 I’m working on various projects that involve AI, Web, automation, and data science.
-- 💬 Ask me about Python, JavaScript, TypeScript, and software development.
+- 💬 Ask me about Python, JavaScript, TypeScript, Gen AI and Software Development.
